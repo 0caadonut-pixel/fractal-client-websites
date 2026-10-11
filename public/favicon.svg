@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="fractal client">
+  <rect width="32" height="32" rx="7" fill="#0e0e14"/>
+  <path d="M16 4 27 10v12L16 28 5 22V10z" fill="none" stroke="#a78bfa" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M16 11l5 3v6l-5 3-5-3v-6z" fill="#8b5cf6"/>
+</svg>
